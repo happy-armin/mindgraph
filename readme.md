@@ -1,8 +1,6 @@
 # MindGraph
 
-Welcome to MindGraph, a proof of concept, open-source, API-first graph-based project designed for natural language interactions (input and output). This prototype serves as a template for building and customizing your own CRM solutions with a focus on ease of integration and extendibility. Here is the [announcement on X](https://twitter.com/yoheinakajima/status/1769019899245158648), for some more context.
-
-![flowchart](https://pbs.twimg.com/media/GIzWMHPa4AAakOc?format=jpg&name=large)
+Welcome to MindGraph, a proof of concept, open-source, API-first graph-based project designed for natural language interactions (input and output). This prototype serves as a template for building and customizing your own CRM solutions with a focus on ease of integration and extendibility.
 
 ## Getting Started
 
@@ -226,9 +224,3 @@ Let's be honest... I don't maintain projects. If you want to take over/manage th
 ## License
 
 MindGraph is distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
-Just tag me on Twitter/X [https://twitter.com/yoheinakajima](https://twitter.com/yoheinakajima)
-
-Project Link: [https://github.com/yoheinakajima/MindGraph](https://github.com/yoheinakajima/MindGraph)
